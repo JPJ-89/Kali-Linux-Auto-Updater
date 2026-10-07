@@ -1,2 +1,1 @@
-# Kali Linux Auto-Updater
-Kali Linux distribution auto-updater tool.
+A fast and lightweight script to keep your Kali Linux environment updated.
